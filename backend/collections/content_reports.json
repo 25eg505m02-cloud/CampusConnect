@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "targetType": "POST",
+    "targetId": 1,
+    "reason": "Sample moderation report 1: please review this content for accuracy and community guideline compliance.",
+    "status": "OPEN",
+    "reporterId": 1,
+    "createdAt": "2026-10-02T16:00:00Z"
+  },
+  {
+    "id": 2,
+    "targetType": "COMMENT",
+    "targetId": 2,
+    "reason": "Sample moderation report 2: please review this content for accuracy and community guideline compliance.",
+    "status": "REVIEWED",
+    "reporterId": 2,
+    "createdAt": "2026-10-03T16:00:00Z"
+  },
+  {
+    "id": 3,
+    "targetType": "USER",
+    "targetId": 3,
+    "reason": "Sample moderation report 3: please review this content for accuracy and community guideline compliance.",
+    "status": "DISMISSED",
+    "reporterId": 3,
+    "createdAt": "2026-10-04T16:00:00Z"
+  },
+  {
+    "id": 4,
+    "targetType": "GROUP",
+    "targetId": 4,
+    "reason": "Sample moderation report 4: please review this content for accuracy and community guideline compliance.",
+    "status": "OPEN",
+    "reporterId": 4,
+    "createdAt": "2026-10-05T16:00:00Z"
+  },
+  {
+    "id": 5,
+    "targetType": "POST",
+    "targetId": 5,
+    "reason": "Sample moderation report 5: please review this content for accuracy and community guideline compliance.",
+    "status": "REVIEWED",
+    "reporterId": 5,
+    "createdAt": "2026-10-06T16:00:00Z"
+  },
+  {
+    "id": 6,
+    "targetType": "COMMENT",
+    "targetId": 6,
+    "reason": "Sample moderation report 6: please review this content for accuracy and community guideline compliance.",
+    "status": "DISMISSED",
+    "reporterId": 6,
+    "createdAt": "2026-10-07T16:00:00Z"
+  },
+  {
+    "id": 7,
+    "targetType": "USER",
+    "targetId": 7,
+    "reason": "Sample moderation report 7: please review this content for accuracy and community guideline compliance.",
+    "status": "OPEN",
+    "reporterId": 7,
+    "createdAt": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": 8,
+    "targetType": "GROUP",
+    "targetId": 8,
+    "reason": "Sample moderation report 8: please review this content for accuracy and community guideline compliance.",
+    "status": "REVIEWED",
+    "reporterId": 8,
+    "createdAt": "2026-10-09T16:00:00Z"
+  },
+  {
+    "id": 9,
+    "targetType": "POST",
+    "targetId": 9,
+    "reason": "Sample moderation report 9: please review this content for accuracy and community guideline compliance.",
+    "status": "DISMISSED",
+    "reporterId": 9,
+    "createdAt": "2026-10-10T16:00:00Z"
+  },
+  {
+    "id": 10,
+    "targetType": "COMMENT",
+    "targetId": 10,
+    "reason": "Sample moderation report 10: please review this content for accuracy and community guideline compliance.",
+    "status": "OPEN",
+    "reporterId": 10,
+    "createdAt": "2026-10-11T16:00:00Z"
+  },
+  {
+    "id": 11,
+    "targetType": "USER",
+    "targetId": 11,
+    "reason": "Sample moderation report 11: please review this content for accuracy and community guideline compliance.",
+    "status": "REVIEWED",
+    "reporterId": 11,
+    "createdAt": "2026-10-12T16:00:00Z"
+  },
+  {
+    "id": 12,
+    "targetType": "GROUP",
+    "targetId": 12,
+    "reason": "Sample moderation report 12: please review this content for accuracy and community guideline compliance.",
+    "status": "DISMISSED",
+    "reporterId": 12,
+    "createdAt": "2026-10-13T16:00:00Z"
+  },
+  {
+    "id": 13,
+    "targetType": "POST",
+    "targetId": 13,
+    "reason": "Sample moderation report 13: please review this content for accuracy and community guideline compliance.",
+    "status": "OPEN",
+    "reporterId": 13,
+    "createdAt": "2026-10-14T16:00:00Z"
+  },
+  {
+    "id": 14,
+    "targetType": "COMMENT",
+    "targetId": 14,
+    "reason": "Sample moderation report 14: please review this content for accuracy and community guideline compliance.",
+    "status": "REVIEWED",
+    "reporterId": 14,
+    "createdAt": "2026-10-15T16:00:00Z"
+  },
+  {
+    "id": 15,
+    "targetType": "USER",
+    "targetId": 15,
+    "reason": "Sample moderation report 15: please review this content for accuracy and community guideline compliance.",
+    "status": "DISMISSED",
+    "reporterId": 15,
+    "createdAt": "2026-10-02T16:00:00Z"
+  }
+]

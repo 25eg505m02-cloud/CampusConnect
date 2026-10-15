@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "authorId": 1,
+    "groupId": null,
+    "content": "Campus update 1: aarav is organizing a peer-learning session. Share your questions and ideas below.",
+    "createdAt": "2026-10-01T10:00:00Z",
+    "updatedAt": "2026-10-01T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "authorId": 2,
+    "groupId": 2,
+    "content": "Campus update 2: diya is organizing a peer-learning session. Share your questions and ideas below.",
+    "createdAt": "2026-10-02T10:00:00Z",
+    "updatedAt": "2026-10-02T10:00:00Z"
+  },
+  {
+    "id": 3,
+    "authorId": 3,
+    "groupId": 3,
+    "content": "Campus update 3: kabir is organizing a peer-learning session. Share your questions and ideas below.",
+    "createdAt": "2026-10-03T10:00:00Z",
+    "updatedAt": "2026-10-03T10:00:00Z"
+  },
+  {
+    "id": 4,
+    "authorId": 4,
+    "groupId": null,
+    "content": "Campus update 4: anaya is organizing a peer-learning session. Share your questions and ideas below.",
+    "createdAt": "2026-10-04T10:00:00Z",
+    "updatedAt": "2026-10-04T10:00:00Z"
+  },
+  {
+    "id": 5,
+    "authorId": 5,
+    "groupId": 5,
+    "content": "Campus update 5: ishaan is organizing a peer-learning session. Share your questions and ideas below.",
+    "createdAt": "2026-10-05T10:00:00Z",
+    "updatedAt": "2026-10-05T10:00:00Z"
+  },
+  {
+    "id": 6,
+    "authorId": 6,
+    "groupId": 6,
+    "content": "Campus update 6: meera is organizing a peer-learning session. Share your questions and ideas below.",
+    "createdAt": "2026-10-06T10:00:00Z",
+    "updatedAt": "2026-10-06T10:00:00Z"
+  },
+  {
+    "id": 7,
+    "authorId": 7,
+    "groupId": null,
+    "content": "Campus update 7: arjun is organizing a peer-learning session. Share your questions and ideas below.",
+    "createdAt": "2026-10-07T10:00:00Z",
+    "updatedAt": "2026-10-07T10:00:00Z"
+  },
+  {
+    "id": 8,
+    "authorId": 8,
+    "groupId": 8,
+    "content": "Campus update 8: sara is organizing a peer-learning session. Share your questions and ideas below.",
+    "createdAt": "2026-10-08T10:00:00Z",
+    "updatedAt": "2026-10-08T10:00:00Z"
+  },
+  {
+    "id": 9,
+    "authorId": 9,
+    "groupId": 9,
+    "content": "Campus update 9: vivaan is organizing a peer-learning session. Share your questions and ideas below.",
+    "createdAt": "2026-10-09T10:00:00Z",
+    "updatedAt": "2026-10-09T10:00:00Z"
+  },
+  {
+    "id": 10,
+    "authorId": 10,
+    "groupId": null,
+    "content": "Campus update 10: riya is organizing a peer-learning session. Share your questions and ideas below.",
+    "createdAt": "2026-10-10T10:00:00Z",
+    "updatedAt": "2026-10-10T10:00:00Z"
+  },
+  {
+    "id": 11,
+    "authorId": 11,
+    "groupId": 11,
+    "content": "Campus update 11: aditya is organizing a peer-learning session. Share your questions and ideas below.",
+    "createdAt": "2026-10-11T10:00:00Z",
+    "updatedAt": "2026-10-11T10:00:00Z"
+  },
+  {
+    "id": 12,
+    "authorId": 12,
+    "groupId": 12,
+    "content": "Campus update 12: tara is organizing a peer-learning session. Share your questions and ideas below.",
+    "createdAt": "2026-10-12T10:00:00Z",
+    "updatedAt": "2026-10-12T10:00:00Z"
+  },
+  {
+    "id": 13,
+    "authorId": 13,
+    "groupId": null,
+    "content": "Campus update 13: neel is organizing a peer-learning session. Share your questions and ideas below.",
+    "createdAt": "2026-10-13T10:00:00Z",
+    "updatedAt": "2026-10-13T10:00:00Z"
+  },
+  {
+    "id": 14,
+    "authorId": 14,
+    "groupId": 14,
+    "content": "Campus update 14: maya is organizing a peer-learning session. Share your questions and ideas below.",
+    "createdAt": "2026-10-14T10:00:00Z",
+    "updatedAt": "2026-10-14T10:00:00Z"
+  },
+  {
+    "id": 15,
+    "authorId": 15,
+    "groupId": 15,
+    "content": "Campus update 15: rohan is organizing a peer-learning session. Share your questions and ideas below.",
+    "createdAt": "2026-10-15T10:00:00Z",
+    "updatedAt": "2026-10-15T10:00:00Z"
+  }
+]

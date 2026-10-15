@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "title": "Campus Workshop 1",
+    "description": "A hands-on campus session hosted by aarav covering collaboration, practical skills, and student projects.",
+    "venue": "Campus Hall 1",
+    "startAt": "2027-01-05T10:00:00Z",
+    "endAt": "2027-01-05T12:00:00Z",
+    "capacity": 25,
+    "creatorId": 1,
+    "createdAt": "2026-10-01T09:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Campus Workshop 2",
+    "description": "A hands-on campus session hosted by diya covering collaboration, practical skills, and student projects.",
+    "venue": "Campus Hall 2",
+    "startAt": "2027-02-06T10:00:00Z",
+    "endAt": "2027-02-06T12:00:00Z",
+    "capacity": 30,
+    "creatorId": 2,
+    "createdAt": "2026-10-02T09:00:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Campus Workshop 3",
+    "description": "A hands-on campus session hosted by kabir covering collaboration, practical skills, and student projects.",
+    "venue": "Campus Hall 3",
+    "startAt": "2027-03-07T10:00:00Z",
+    "endAt": "2027-03-07T12:00:00Z",
+    "capacity": 35,
+    "creatorId": 3,
+    "createdAt": "2026-10-03T09:00:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Campus Workshop 4",
+    "description": "A hands-on campus session hosted by anaya covering collaboration, practical skills, and student projects.",
+    "venue": "Campus Hall 4",
+    "startAt": "2027-04-08T10:00:00Z",
+    "endAt": "2027-04-08T12:00:00Z",
+    "capacity": 40,
+    "creatorId": 4,
+    "createdAt": "2026-10-04T09:00:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Campus Workshop 5",
+    "description": "A hands-on campus session hosted by ishaan covering collaboration, practical skills, and student projects.",
+    "venue": "Campus Hall 5",
+    "startAt": "2027-05-09T10:00:00Z",
+    "endAt": "2027-05-09T12:00:00Z",
+    "capacity": 45,
+    "creatorId": 5,
+    "createdAt": "2026-10-05T09:00:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Campus Workshop 6",
+    "description": "A hands-on campus session hosted by meera covering collaboration, practical skills, and student projects.",
+    "venue": "Campus Hall 6",
+    "startAt": "2027-06-10T10:00:00Z",
+    "endAt": "2027-06-10T12:00:00Z",
+    "capacity": 50,
+    "creatorId": 6,
+    "createdAt": "2026-10-06T09:00:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Campus Workshop 7",
+    "description": "A hands-on campus session hosted by arjun covering collaboration, practical skills, and student projects.",
+    "venue": "Campus Hall 7",
+    "startAt": "2027-01-11T10:00:00Z",
+    "endAt": "2027-01-11T12:00:00Z",
+    "capacity": 55,
+    "creatorId": 7,
+    "createdAt": "2026-10-07T09:00:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Campus Workshop 8",
+    "description": "A hands-on campus session hosted by sara covering collaboration, practical skills, and student projects.",
+    "venue": "Campus Hall 8",
+    "startAt": "2027-02-12T10:00:00Z",
+    "endAt": "2027-02-12T12:00:00Z",
+    "capacity": 60,
+    "creatorId": 8,
+    "createdAt": "2026-10-08T09:00:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Campus Workshop 9",
+    "description": "A hands-on campus session hosted by vivaan covering collaboration, practical skills, and student projects.",
+    "venue": "Campus Hall 9",
+    "startAt": "2027-03-13T10:00:00Z",
+    "endAt": "2027-03-13T12:00:00Z",
+    "capacity": 65,
+    "creatorId": 9,
+    "createdAt": "2026-10-09T09:00:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Campus Workshop 10",
+    "description": "A hands-on campus session hosted by riya covering collaboration, practical skills, and student projects.",
+    "venue": "Campus Hall 10",
+    "startAt": "2027-04-14T10:00:00Z",
+    "endAt": "2027-04-14T12:00:00Z",
+    "capacity": 70,
+    "creatorId": 10,
+    "createdAt": "2026-10-10T09:00:00Z"
+  },
+  {
+    "id": 11,
+    "title": "Campus Workshop 11",
+    "description": "A hands-on campus session hosted by aditya covering collaboration, practical skills, and student projects.",
+    "venue": "Campus Hall 11",
+    "startAt": "2027-05-15T10:00:00Z",
+    "endAt": "2027-05-15T12:00:00Z",
+    "capacity": 75,
+    "creatorId": 11,
+    "createdAt": "2026-10-11T09:00:00Z"
+  },
+  {
+    "id": 12,
+    "title": "Campus Workshop 12",
+    "description": "A hands-on campus session hosted by tara covering collaboration, practical skills, and student projects.",
+    "venue": "Campus Hall 12",
+    "startAt": "2027-06-16T10:00:00Z",
+    "endAt": "2027-06-16T12:00:00Z",
+    "capacity": 80,
+    "creatorId": 12,
+    "createdAt": "2026-10-12T09:00:00Z"
+  },
+  {
+    "id": 13,
+    "title": "Campus Workshop 13",
+    "description": "A hands-on campus session hosted by neel covering collaboration, practical skills, and student projects.",
+    "venue": "Campus Hall 13",
+    "startAt": "2027-01-17T10:00:00Z",
+    "endAt": "2027-01-17T12:00:00Z",
+    "capacity": 85,
+    "creatorId": 13,
+    "createdAt": "2026-10-13T09:00:00Z"
+  },
+  {
+    "id": 14,
+    "title": "Campus Workshop 14",
+    "description": "A hands-on campus session hosted by maya covering collaboration, practical skills, and student projects.",
+    "venue": "Campus Hall 14",
+    "startAt": "2027-02-18T10:00:00Z",
+    "endAt": "2027-02-18T12:00:00Z",
+    "capacity": 90,
+    "creatorId": 14,
+    "createdAt": "2026-10-14T09:00:00Z"
+  },
+  {
+    "id": 15,
+    "title": "Campus Workshop 15",
+    "description": "A hands-on campus session hosted by rohan covering collaboration, practical skills, and student projects.",
+    "venue": "Campus Hall 15",
+    "startAt": "2027-03-19T10:00:00Z",
+    "endAt": "2027-03-19T12:00:00Z",
+    "capacity": 95,
+    "creatorId": 15,
+    "createdAt": "2026-10-15T09:00:00Z"
+  }
+]

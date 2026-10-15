@@ -1,9 +1,9 @@
 FROM maven:3.9.11-eclipse-temurin-21-alpine AS build
 
 WORKDIR /workspace
-COPY backend/pom.xml ./pom.xml
+COPY pom.xml ./pom.xml
 RUN mvn -B -ntp dependency:go-offline
-COPY backend/src ./src
+COPY src ./src
 COPY collections ./collections
 RUN mvn -B -ntp package
 
