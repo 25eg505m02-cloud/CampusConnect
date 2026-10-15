@@ -21,7 +21,7 @@ import static org.assertj.core.api.Assertions.assertThat;
         "spring.jpa.hibernate.ddl-auto=create-drop",
         "campus-connect.jwt.secret=integration-test-secret-that-is-over-32-bytes-long",
         "campus-connect.seed.enabled=true",
-        "campus-connect.seed.directory=../collections"
+        "campus-connect.seed.directory=collections"
 })
 class JsonSeedLoaderIntegrationTest {
     @Autowired
