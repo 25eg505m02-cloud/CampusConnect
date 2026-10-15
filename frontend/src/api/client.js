@@ -1,14 +1,7 @@
 import axios from 'axios';
 import { resolveApiBaseUrl } from './baseUrl.js';
 
-const PRODUCTION_API_BASE_URL = 'https://campusconnect-smah.onrender.com/api/v1';
-const baseURL = resolveApiBaseUrl(
-  import.meta.env.PROD,
-  import.meta.env.VITE_API_BASE_URL,
-  'https://campus-connect-git-main-25eg505m02-cloud.vercel.app/api/v1',
-  'https://campus-connect-cnhxx2a2x-25eg505m02-cloud.vercel.app/api/v1',
-  PRODUCTION_API_BASE_URL,
-);
+const baseURL = resolveApiBaseUrl(import.meta.env.PROD, import.meta.env.VITE_API_BASE_URL);
 
 export const api = axios.create({
   baseURL: baseURL || '/api/v1',
