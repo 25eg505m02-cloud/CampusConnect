@@ -5,3 +5,4 @@ backend/target/
 backend/uploads/
 frontend/node_modules/
 frontend/dist/
+/frontend/.tsupgrader/runtime-validation/standalone-result.json
