@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "postId": 1,
+    "userId": 2,
+    "createdAt": "2026-10-02T14:00:00Z"
+  },
+  {
+    "id": 2,
+    "postId": 2,
+    "userId": 3,
+    "createdAt": "2026-10-03T14:00:00Z"
+  },
+  {
+    "id": 3,
+    "postId": 3,
+    "userId": 4,
+    "createdAt": "2026-10-04T14:00:00Z"
+  },
+  {
+    "id": 4,
+    "postId": 4,
+    "userId": 5,
+    "createdAt": "2026-10-05T14:00:00Z"
+  },
+  {
+    "id": 5,
+    "postId": 5,
+    "userId": 6,
+    "createdAt": "2026-10-06T14:00:00Z"
+  },
+  {
+    "id": 6,
+    "postId": 6,
+    "userId": 7,
+    "createdAt": "2026-10-07T14:00:00Z"
+  },
+  {
+    "id": 7,
+    "postId": 7,
+    "userId": 8,
+    "createdAt": "2026-10-08T14:00:00Z"
+  },
+  {
+    "id": 8,
+    "postId": 8,
+    "userId": 9,
+    "createdAt": "2026-10-09T14:00:00Z"
+  },
+  {
+    "id": 9,
+    "postId": 9,
+    "userId": 10,
+    "createdAt": "2026-10-10T14:00:00Z"
+  },
+  {
+    "id": 10,
+    "postId": 10,
+    "userId": 11,
+    "createdAt": "2026-10-11T14:00:00Z"
+  },
+  {
+    "id": 11,
+    "postId": 11,
+    "userId": 12,
+    "createdAt": "2026-10-12T14:00:00Z"
+  },
+  {
+    "id": 12,
+    "postId": 12,
+    "userId": 13,
+    "createdAt": "2026-10-13T14:00:00Z"
+  },
+  {
+    "id": 13,
+    "postId": 13,
+    "userId": 14,
+    "createdAt": "2026-10-14T14:00:00Z"
+  },
+  {
+    "id": 14,
+    "postId": 14,
+    "userId": 15,
+    "createdAt": "2026-10-15T14:00:00Z"
+  },
+  {
+    "id": 15,
+    "postId": 15,
+    "userId": 1,
+    "createdAt": "2026-10-02T14:00:00Z"
+  }
+]

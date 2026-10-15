@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "conversationId": 1,
+    "userId": 1,
+    "joinedAt": "2026-10-01T12:00:00Z"
+  },
+  {
+    "id": 2,
+    "conversationId": 1,
+    "userId": 2,
+    "joinedAt": "2026-10-01T12:00:00Z"
+  },
+  {
+    "id": 3,
+    "conversationId": 2,
+    "userId": 2,
+    "joinedAt": "2026-10-02T12:00:00Z"
+  },
+  {
+    "id": 4,
+    "conversationId": 2,
+    "userId": 3,
+    "joinedAt": "2026-10-02T12:00:00Z"
+  },
+  {
+    "id": 5,
+    "conversationId": 3,
+    "userId": 3,
+    "joinedAt": "2026-10-03T12:00:00Z"
+  },
+  {
+    "id": 6,
+    "conversationId": 3,
+    "userId": 4,
+    "joinedAt": "2026-10-03T12:00:00Z"
+  },
+  {
+    "id": 7,
+    "conversationId": 4,
+    "userId": 4,
+    "joinedAt": "2026-10-04T12:00:00Z"
+  },
+  {
+    "id": 8,
+    "conversationId": 4,
+    "userId": 5,
+    "joinedAt": "2026-10-04T12:00:00Z"
+  },
+  {
+    "id": 9,
+    "conversationId": 5,
+    "userId": 5,
+    "joinedAt": "2026-10-05T12:00:00Z"
+  },
+  {
+    "id": 10,
+    "conversationId": 5,
+    "userId": 6,
+    "joinedAt": "2026-10-05T12:00:00Z"
+  },
+  {
+    "id": 11,
+    "conversationId": 6,
+    "userId": 6,
+    "joinedAt": "2026-10-06T12:00:00Z"
+  },
+  {
+    "id": 12,
+    "conversationId": 6,
+    "userId": 7,
+    "joinedAt": "2026-10-06T12:00:00Z"
+  },
+  {
+    "id": 13,
+    "conversationId": 7,
+    "userId": 7,
+    "joinedAt": "2026-10-07T12:00:00Z"
+  },
+  {
+    "id": 14,
+    "conversationId": 7,
+    "userId": 8,
+    "joinedAt": "2026-10-07T12:00:00Z"
+  },
+  {
+    "id": 15,
+    "conversationId": 8,
+    "userId": 8,
+    "joinedAt": "2026-10-08T12:00:00Z"
+  },
+  {
+    "id": 16,
+    "conversationId": 8,
+    "userId": 9,
+    "joinedAt": "2026-10-08T12:00:00Z"
+  },
+  {
+    "id": 17,
+    "conversationId": 9,
+    "userId": 9,
+    "joinedAt": "2026-10-09T12:00:00Z"
+  },
+  {
+    "id": 18,
+    "conversationId": 9,
+    "userId": 10,
+    "joinedAt": "2026-10-09T12:00:00Z"
+  },
+  {
+    "id": 19,
+    "conversationId": 10,
+    "userId": 10,
+    "joinedAt": "2026-10-10T12:00:00Z"
+  },
+  {
+    "id": 20,
+    "conversationId": 10,
+    "userId": 11,
+    "joinedAt": "2026-10-10T12:00:00Z"
+  },
+  {
+    "id": 21,
+    "conversationId": 11,
+    "userId": 11,
+    "joinedAt": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": 22,
+    "conversationId": 11,
+    "userId": 12,
+    "joinedAt": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": 23,
+    "conversationId": 12,
+    "userId": 12,
+    "joinedAt": "2026-10-12T12:00:00Z"
+  },
+  {
+    "id": 24,
+    "conversationId": 12,
+    "userId": 13,
+    "joinedAt": "2026-10-12T12:00:00Z"
+  },
+  {
+    "id": 25,
+    "conversationId": 13,
+    "userId": 13,
+    "joinedAt": "2026-10-13T12:00:00Z"
+  },
+  {
+    "id": 26,
+    "conversationId": 13,
+    "userId": 14,
+    "joinedAt": "2026-10-13T12:00:00Z"
+  },
+  {
+    "id": 27,
+    "conversationId": 14,
+    "userId": 14,
+    "joinedAt": "2026-10-14T12:00:00Z"
+  },
+  {
+    "id": 28,
+    "conversationId": 14,
+    "userId": 15,
+    "joinedAt": "2026-10-14T12:00:00Z"
+  },
+  {
+    "id": 29,
+    "conversationId": 15,
+    "userId": 15,
+    "joinedAt": "2026-10-15T12:00:00Z"
+  },
+  {
+    "id": 30,
+    "conversationId": 15,
+    "userId": 1,
+    "joinedAt": "2026-10-15T12:00:00Z"
+  }
+]

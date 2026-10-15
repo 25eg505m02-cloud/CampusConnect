@@ -17,6 +17,8 @@ Copy-Item .env.example .env
 
 Edit `.env` and replace all three password/secret placeholders with unique, strong values. `JWT_SECRET` must be at least 32 UTF-8 bytes. The `.env` file is ignored by Git; never commit or share it.
 
+To seed the sample records into a development database on backend startup, set `CAMPUS_CONNECT_SEED_ENABLED=true` in the root `.env`. Compose mounts `collections/` read-only at `/app/collections`; seeding is disabled by default. The fixtures use a shared password and must not be loaded into production.
+
 Build and start the full application:
 
 ```powershell

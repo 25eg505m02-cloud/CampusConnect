@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "eventId": 1,
+    "userId": 2,
+    "registeredAt": "2026-10-02T09:00:00Z"
+  },
+  {
+    "id": 2,
+    "eventId": 2,
+    "userId": 3,
+    "registeredAt": "2026-10-03T09:00:00Z"
+  },
+  {
+    "id": 3,
+    "eventId": 3,
+    "userId": 4,
+    "registeredAt": "2026-10-04T09:00:00Z"
+  },
+  {
+    "id": 4,
+    "eventId": 4,
+    "userId": 5,
+    "registeredAt": "2026-10-05T09:00:00Z"
+  },
+  {
+    "id": 5,
+    "eventId": 5,
+    "userId": 6,
+    "registeredAt": "2026-10-06T09:00:00Z"
+  },
+  {
+    "id": 6,
+    "eventId": 6,
+    "userId": 7,
+    "registeredAt": "2026-10-07T09:00:00Z"
+  },
+  {
+    "id": 7,
+    "eventId": 7,
+    "userId": 8,
+    "registeredAt": "2026-10-08T09:00:00Z"
+  },
+  {
+    "id": 8,
+    "eventId": 8,
+    "userId": 9,
+    "registeredAt": "2026-10-09T09:00:00Z"
+  },
+  {
+    "id": 9,
+    "eventId": 9,
+    "userId": 10,
+    "registeredAt": "2026-10-10T09:00:00Z"
+  },
+  {
+    "id": 10,
+    "eventId": 10,
+    "userId": 11,
+    "registeredAt": "2026-10-11T09:00:00Z"
+  },
+  {
+    "id": 11,
+    "eventId": 11,
+    "userId": 12,
+    "registeredAt": "2026-10-12T09:00:00Z"
+  },
+  {
+    "id": 12,
+    "eventId": 12,
+    "userId": 13,
+    "registeredAt": "2026-10-13T09:00:00Z"
+  },
+  {
+    "id": 13,
+    "eventId": 13,
+    "userId": 14,
+    "registeredAt": "2026-10-14T09:00:00Z"
+  },
+  {
+    "id": 14,
+    "eventId": 14,
+    "userId": 15,
+    "registeredAt": "2026-10-15T09:00:00Z"
+  },
+  {
+    "id": 15,
+    "eventId": 15,
+    "userId": 1,
+    "registeredAt": "2026-10-02T09:00:00Z"
+  }
+]

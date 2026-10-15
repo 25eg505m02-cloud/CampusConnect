@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Student Notice 1",
+    "content": "Please review the campus update for Computer Science students. Check the student portal for schedules and further details.",
+    "category": "Academic",
+    "authorId": 1,
+    "createdAt": "2026-10-01T09:00:00Z",
+    "updatedAt": "2026-10-01T09:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Student Notice 2",
+    "content": "Please review the campus update for Information Technology students. Check the student portal for schedules and further details.",
+    "category": "Events",
+    "authorId": 2,
+    "createdAt": "2026-10-02T09:00:00Z",
+    "updatedAt": "2026-10-02T09:00:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Student Notice 3",
+    "content": "Please review the campus update for Mechanical Engineering students. Check the student portal for schedules and further details.",
+    "category": "Facilities",
+    "authorId": 3,
+    "createdAt": "2026-10-03T09:00:00Z",
+    "updatedAt": "2026-10-03T09:00:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Student Notice 4",
+    "content": "Please review the campus update for Electronics students. Check the student portal for schedules and further details.",
+    "category": "Academic",
+    "authorId": 4,
+    "createdAt": "2026-10-04T09:00:00Z",
+    "updatedAt": "2026-10-04T09:00:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Student Notice 5",
+    "content": "Please review the campus update for Business Administration students. Check the student portal for schedules and further details.",
+    "category": "Events",
+    "authorId": 1,
+    "createdAt": "2026-10-05T09:00:00Z",
+    "updatedAt": "2026-10-05T09:00:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Student Notice 6",
+    "content": "Please review the campus update for Computer Science students. Check the student portal for schedules and further details.",
+    "category": "Facilities",
+    "authorId": 2,
+    "createdAt": "2026-10-06T09:00:00Z",
+    "updatedAt": "2026-10-06T09:00:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Student Notice 7",
+    "content": "Please review the campus update for Information Technology students. Check the student portal for schedules and further details.",
+    "category": "Academic",
+    "authorId": 3,
+    "createdAt": "2026-10-07T09:00:00Z",
+    "updatedAt": "2026-10-07T09:00:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Student Notice 8",
+    "content": "Please review the campus update for Mechanical Engineering students. Check the student portal for schedules and further details.",
+    "category": "Events",
+    "authorId": 4,
+    "createdAt": "2026-10-08T09:00:00Z",
+    "updatedAt": "2026-10-08T09:00:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Student Notice 9",
+    "content": "Please review the campus update for Electronics students. Check the student portal for schedules and further details.",
+    "category": "Facilities",
+    "authorId": 1,
+    "createdAt": "2026-10-09T09:00:00Z",
+    "updatedAt": "2026-10-09T09:00:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Student Notice 10",
+    "content": "Please review the campus update for Business Administration students. Check the student portal for schedules and further details.",
+    "category": "Academic",
+    "authorId": 2,
+    "createdAt": "2026-10-10T09:00:00Z",
+    "updatedAt": "2026-10-10T09:00:00Z"
+  },
+  {
+    "id": 11,
+    "title": "Student Notice 11",
+    "content": "Please review the campus update for Computer Science students. Check the student portal for schedules and further details.",
+    "category": "Events",
+    "authorId": 3,
+    "createdAt": "2026-10-11T09:00:00Z",
+    "updatedAt": "2026-10-11T09:00:00Z"
+  },
+  {
+    "id": 12,
+    "title": "Student Notice 12",
+    "content": "Please review the campus update for Information Technology students. Check the student portal for schedules and further details.",
+    "category": "Facilities",
+    "authorId": 4,
+    "createdAt": "2026-10-12T09:00:00Z",
+    "updatedAt": "2026-10-12T09:00:00Z"
+  },
+  {
+    "id": 13,
+    "title": "Student Notice 13",
+    "content": "Please review the campus update for Mechanical Engineering students. Check the student portal for schedules and further details.",
+    "category": "Academic",
+    "authorId": 1,
+    "createdAt": "2026-10-13T09:00:00Z",
+    "updatedAt": "2026-10-13T09:00:00Z"
+  },
+  {
+    "id": 14,
+    "title": "Student Notice 14",
+    "content": "Please review the campus update for Electronics students. Check the student portal for schedules and further details.",
+    "category": "Events",
+    "authorId": 2,
+    "createdAt": "2026-10-14T09:00:00Z",
+    "updatedAt": "2026-10-14T09:00:00Z"
+  },
+  {
+    "id": 15,
+    "title": "Student Notice 15",
+    "content": "Please review the campus update for Business Administration students. Check the student portal for schedules and further details.",
+    "category": "Facilities",
+    "authorId": 3,
+    "createdAt": "2026-10-15T09:00:00Z",
+    "updatedAt": "2026-10-15T09:00:00Z"
+  }
+]

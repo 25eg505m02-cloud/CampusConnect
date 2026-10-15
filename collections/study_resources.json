@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "title": "Study Guide 1",
+    "description": "Metadata fixture for a Computer Science study guide. Upload the matching file before enabling downloads.",
+    "originalFileName": "study-guide-1.pdf",
+    "contentType": "application/pdf",
+    "fileSize": 1024,
+    "storageKey": "10000000-0000-4000-8000-000000000001",
+    "uploaderId": 1,
+    "createdAt": "2026-10-01T09:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Study Guide 2",
+    "description": "Metadata fixture for a Information Technology study guide. Upload the matching file before enabling downloads.",
+    "originalFileName": "study-guide-2.pdf",
+    "contentType": "application/pdf",
+    "fileSize": 2048,
+    "storageKey": "10000000-0000-4000-8000-000000000002",
+    "uploaderId": 2,
+    "createdAt": "2026-10-02T09:00:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Study Guide 3",
+    "description": "Metadata fixture for a Mechanical Engineering study guide. Upload the matching file before enabling downloads.",
+    "originalFileName": "study-guide-3.pdf",
+    "contentType": "application/pdf",
+    "fileSize": 3072,
+    "storageKey": "10000000-0000-4000-8000-000000000003",
+    "uploaderId": 3,
+    "createdAt": "2026-10-03T09:00:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Study Guide 4",
+    "description": "Metadata fixture for a Electronics study guide. Upload the matching file before enabling downloads.",
+    "originalFileName": "study-guide-4.pdf",
+    "contentType": "application/pdf",
+    "fileSize": 4096,
+    "storageKey": "10000000-0000-4000-8000-000000000004",
+    "uploaderId": 4,
+    "createdAt": "2026-10-04T09:00:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Study Guide 5",
+    "description": "Metadata fixture for a Business Administration study guide. Upload the matching file before enabling downloads.",
+    "originalFileName": "study-guide-5.pdf",
+    "contentType": "application/pdf",
+    "fileSize": 5120,
+    "storageKey": "10000000-0000-4000-8000-000000000005",
+    "uploaderId": 5,
+    "createdAt": "2026-10-05T09:00:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Study Guide 6",
+    "description": "Metadata fixture for a Computer Science study guide. Upload the matching file before enabling downloads.",
+    "originalFileName": "study-guide-6.pdf",
+    "contentType": "application/pdf",
+    "fileSize": 6144,
+    "storageKey": "10000000-0000-4000-8000-000000000006",
+    "uploaderId": 6,
+    "createdAt": "2026-10-06T09:00:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Study Guide 7",
+    "description": "Metadata fixture for a Information Technology study guide. Upload the matching file before enabling downloads.",
+    "originalFileName": "study-guide-7.pdf",
+    "contentType": "application/pdf",
+    "fileSize": 7168,
+    "storageKey": "10000000-0000-4000-8000-000000000007",
+    "uploaderId": 7,
+    "createdAt": "2026-10-07T09:00:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Study Guide 8",
+    "description": "Metadata fixture for a Mechanical Engineering study guide. Upload the matching file before enabling downloads.",
+    "originalFileName": "study-guide-8.pdf",
+    "contentType": "application/pdf",
+    "fileSize": 8192,
+    "storageKey": "10000000-0000-4000-8000-000000000008",
+    "uploaderId": 8,
+    "createdAt": "2026-10-08T09:00:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Study Guide 9",
+    "description": "Metadata fixture for a Electronics study guide. Upload the matching file before enabling downloads.",
+    "originalFileName": "study-guide-9.pdf",
+    "contentType": "application/pdf",
+    "fileSize": 9216,
+    "storageKey": "10000000-0000-4000-8000-000000000009",
+    "uploaderId": 9,
+    "createdAt": "2026-10-09T09:00:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Study Guide 10",
+    "description": "Metadata fixture for a Business Administration study guide. Upload the matching file before enabling downloads.",
+    "originalFileName": "study-guide-10.pdf",
+    "contentType": "application/pdf",
+    "fileSize": 10240,
+    "storageKey": "10000000-0000-4000-8000-000000000010",
+    "uploaderId": 10,
+    "createdAt": "2026-10-10T09:00:00Z"
+  },
+  {
+    "id": 11,
+    "title": "Study Guide 11",
+    "description": "Metadata fixture for a Computer Science study guide. Upload the matching file before enabling downloads.",
+    "originalFileName": "study-guide-11.pdf",
+    "contentType": "application/pdf",
+    "fileSize": 11264,
+    "storageKey": "10000000-0000-4000-8000-000000000011",
+    "uploaderId": 11,
+    "createdAt": "2026-10-11T09:00:00Z"
+  },
+  {
+    "id": 12,
+    "title": "Study Guide 12",
+    "description": "Metadata fixture for a Information Technology study guide. Upload the matching file before enabling downloads.",
+    "originalFileName": "study-guide-12.pdf",
+    "contentType": "application/pdf",
+    "fileSize": 12288,
+    "storageKey": "10000000-0000-4000-8000-000000000012",
+    "uploaderId": 12,
+    "createdAt": "2026-10-12T09:00:00Z"
+  },
+  {
+    "id": 13,
+    "title": "Study Guide 13",
+    "description": "Metadata fixture for a Mechanical Engineering study guide. Upload the matching file before enabling downloads.",
+    "originalFileName": "study-guide-13.pdf",
+    "contentType": "application/pdf",
+    "fileSize": 13312,
+    "storageKey": "10000000-0000-4000-8000-000000000013",
+    "uploaderId": 13,
+    "createdAt": "2026-10-13T09:00:00Z"
+  },
+  {
+    "id": 14,
+    "title": "Study Guide 14",
+    "description": "Metadata fixture for a Electronics study guide. Upload the matching file before enabling downloads.",
+    "originalFileName": "study-guide-14.pdf",
+    "contentType": "application/pdf",
+    "fileSize": 14336,
+    "storageKey": "10000000-0000-4000-8000-000000000014",
+    "uploaderId": 14,
+    "createdAt": "2026-10-14T09:00:00Z"
+  },
+  {
+    "id": 15,
+    "title": "Study Guide 15",
+    "description": "Metadata fixture for a Business Administration study guide. Upload the matching file before enabling downloads.",
+    "originalFileName": "study-guide-15.pdf",
+    "contentType": "application/pdf",
+    "fileSize": 15360,
+    "storageKey": "10000000-0000-4000-8000-000000000015",
+    "uploaderId": 15,
+    "createdAt": "2026-10-15T09:00:00Z"
+  }
+]

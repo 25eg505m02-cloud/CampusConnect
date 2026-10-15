@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "requesterId": 1,
+    "recipientId": 2,
+    "status": "ACCEPTED",
+    "createdAt": "2026-10-01T09:00:00Z"
+  },
+  {
+    "id": 2,
+    "requesterId": 2,
+    "recipientId": 3,
+    "status": "PENDING",
+    "createdAt": "2026-10-02T09:00:00Z"
+  },
+  {
+    "id": 3,
+    "requesterId": 3,
+    "recipientId": 4,
+    "status": "ACCEPTED",
+    "createdAt": "2026-10-03T09:00:00Z"
+  },
+  {
+    "id": 4,
+    "requesterId": 4,
+    "recipientId": 5,
+    "status": "PENDING",
+    "createdAt": "2026-10-04T09:00:00Z"
+  },
+  {
+    "id": 5,
+    "requesterId": 5,
+    "recipientId": 6,
+    "status": "ACCEPTED",
+    "createdAt": "2026-10-05T09:00:00Z"
+  },
+  {
+    "id": 6,
+    "requesterId": 6,
+    "recipientId": 7,
+    "status": "PENDING",
+    "createdAt": "2026-10-06T09:00:00Z"
+  },
+  {
+    "id": 7,
+    "requesterId": 7,
+    "recipientId": 8,
+    "status": "ACCEPTED",
+    "createdAt": "2026-10-07T09:00:00Z"
+  },
+  {
+    "id": 8,
+    "requesterId": 8,
+    "recipientId": 9,
+    "status": "PENDING",
+    "createdAt": "2026-10-08T09:00:00Z"
+  },
+  {
+    "id": 9,
+    "requesterId": 9,
+    "recipientId": 10,
+    "status": "ACCEPTED",
+    "createdAt": "2026-10-09T09:00:00Z"
+  },
+  {
+    "id": 10,
+    "requesterId": 10,
+    "recipientId": 11,
+    "status": "PENDING",
+    "createdAt": "2026-10-10T09:00:00Z"
+  },
+  {
+    "id": 11,
+    "requesterId": 11,
+    "recipientId": 12,
+    "status": "ACCEPTED",
+    "createdAt": "2026-10-11T09:00:00Z"
+  },
+  {
+    "id": 12,
+    "requesterId": 12,
+    "recipientId": 13,
+    "status": "PENDING",
+    "createdAt": "2026-10-12T09:00:00Z"
+  },
+  {
+    "id": 13,
+    "requesterId": 13,
+    "recipientId": 14,
+    "status": "ACCEPTED",
+    "createdAt": "2026-10-13T09:00:00Z"
+  },
+  {
+    "id": 14,
+    "requesterId": 14,
+    "recipientId": 15,
+    "status": "PENDING",
+    "createdAt": "2026-10-14T09:00:00Z"
+  },
+  {
+    "id": 15,
+    "requesterId": 15,
+    "recipientId": 1,
+    "status": "ACCEPTED",
+    "createdAt": "2026-10-15T09:00:00Z"
+  }
+]

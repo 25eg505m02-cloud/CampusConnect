@@ -17,6 +17,15 @@ CREATE DATABASE campus_connect CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
 Edit the ignored `backend/.env` file with the MySQL username/password, a random JWT secret of at least 32 bytes, and the actual frontend origin in `CORS_ALLOWED_ORIGINS`. The Spring Boot config imports this dotenv-style properties file from the backend working directory; environment variables can override it. Never use the sample secret in production.
 
+To import the sample collections in `collections/` at startup, add these settings to `backend/.env`:
+
+```properties
+CAMPUS_CONNECT_SEED_ENABLED=true
+CAMPUS_CONNECT_SEED_DIRECTORY=../collections
+```
+
+The loader inserts records in foreign-key order and skips IDs already present, so restarting does not duplicate seeded data. Missing, invalid, or inconsistent collection files fail startup with the file and record identified. User `password` values are BCrypt-encoded before they are stored. These fixtures all use the same development password; do not enable this seed data in production. For Docker Compose, mount the repository's `collections/` directory into the backend container at `/app/collections` and set `CAMPUS_CONNECT_SEED_DIRECTORY=/app/collections`.
+
 From PowerShell:
 
 ```powershell

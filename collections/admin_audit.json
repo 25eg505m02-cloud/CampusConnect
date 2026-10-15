@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "adminId": 1,
+    "action": "REVIEW_REPORT",
+    "targetType": "POST",
+    "targetId": 1,
+    "createdAt": "2026-10-02T17:00:00Z"
+  },
+  {
+    "id": 2,
+    "adminId": 1,
+    "action": "UPDATE_NOTICE",
+    "targetType": "NOTICE",
+    "targetId": 2,
+    "createdAt": "2026-10-03T17:00:00Z"
+  },
+  {
+    "id": 3,
+    "adminId": 1,
+    "action": "DISABLE_USER",
+    "targetType": "USER",
+    "targetId": 3,
+    "createdAt": "2026-10-04T17:00:00Z"
+  },
+  {
+    "id": 4,
+    "adminId": 1,
+    "action": "REVIEW_REPORT",
+    "targetType": "POST",
+    "targetId": 4,
+    "createdAt": "2026-10-05T17:00:00Z"
+  },
+  {
+    "id": 5,
+    "adminId": 1,
+    "action": "UPDATE_NOTICE",
+    "targetType": "NOTICE",
+    "targetId": 5,
+    "createdAt": "2026-10-06T17:00:00Z"
+  },
+  {
+    "id": 6,
+    "adminId": 1,
+    "action": "DISABLE_USER",
+    "targetType": "USER",
+    "targetId": 6,
+    "createdAt": "2026-10-07T17:00:00Z"
+  },
+  {
+    "id": 7,
+    "adminId": 1,
+    "action": "REVIEW_REPORT",
+    "targetType": "POST",
+    "targetId": 7,
+    "createdAt": "2026-10-08T17:00:00Z"
+  },
+  {
+    "id": 8,
+    "adminId": 1,
+    "action": "UPDATE_NOTICE",
+    "targetType": "NOTICE",
+    "targetId": 8,
+    "createdAt": "2026-10-09T17:00:00Z"
+  },
+  {
+    "id": 9,
+    "adminId": 1,
+    "action": "DISABLE_USER",
+    "targetType": "USER",
+    "targetId": 9,
+    "createdAt": "2026-10-10T17:00:00Z"
+  },
+  {
+    "id": 10,
+    "adminId": 1,
+    "action": "REVIEW_REPORT",
+    "targetType": "POST",
+    "targetId": 10,
+    "createdAt": "2026-10-11T17:00:00Z"
+  },
+  {
+    "id": 11,
+    "adminId": 1,
+    "action": "UPDATE_NOTICE",
+    "targetType": "NOTICE",
+    "targetId": 11,
+    "createdAt": "2026-10-12T17:00:00Z"
+  },
+  {
+    "id": 12,
+    "adminId": 1,
+    "action": "DISABLE_USER",
+    "targetType": "USER",
+    "targetId": 12,
+    "createdAt": "2026-10-13T17:00:00Z"
+  },
+  {
+    "id": 13,
+    "adminId": 1,
+    "action": "REVIEW_REPORT",
+    "targetType": "POST",
+    "targetId": 13,
+    "createdAt": "2026-10-14T17:00:00Z"
+  },
+  {
+    "id": 14,
+    "adminId": 1,
+    "action": "UPDATE_NOTICE",
+    "targetType": "NOTICE",
+    "targetId": 14,
+    "createdAt": "2026-10-15T17:00:00Z"
+  },
+  {
+    "id": 15,
+    "adminId": 1,
+    "action": "DISABLE_USER",
+    "targetType": "USER",
+    "targetId": 15,
+    "createdAt": "2026-10-02T17:00:00Z"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "type": "COMMENT",
+    "message": "You have a new campus update 1. Open Campus Connect to see the details.",
+    "referenceId": 1,
+    "read": true,
+    "createdAt": "2026-10-02T15:00:00Z"
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "type": "CONNECTION",
+    "message": "You have a new campus update 2. Open Campus Connect to see the details.",
+    "referenceId": 2,
+    "read": false,
+    "createdAt": "2026-10-03T15:00:00Z"
+  },
+  {
+    "id": 3,
+    "userId": 3,
+    "type": "EVENT",
+    "message": "You have a new campus update 3. Open Campus Connect to see the details.",
+    "referenceId": 3,
+    "read": true,
+    "createdAt": "2026-10-04T15:00:00Z"
+  },
+  {
+    "id": 4,
+    "userId": 4,
+    "type": "COMMENT",
+    "message": "You have a new campus update 4. Open Campus Connect to see the details.",
+    "referenceId": 4,
+    "read": false,
+    "createdAt": "2026-10-05T15:00:00Z"
+  },
+  {
+    "id": 5,
+    "userId": 5,
+    "type": "CONNECTION",
+    "message": "You have a new campus update 5. Open Campus Connect to see the details.",
+    "referenceId": 5,
+    "read": true,
+    "createdAt": "2026-10-06T15:00:00Z"
+  },
+  {
+    "id": 6,
+    "userId": 6,
+    "type": "EVENT",
+    "message": "You have a new campus update 6. Open Campus Connect to see the details.",
+    "referenceId": 6,
+    "read": false,
+    "createdAt": "2026-10-07T15:00:00Z"
+  },
+  {
+    "id": 7,
+    "userId": 7,
+    "type": "COMMENT",
+    "message": "You have a new campus update 7. Open Campus Connect to see the details.",
+    "referenceId": 7,
+    "read": true,
+    "createdAt": "2026-10-08T15:00:00Z"
+  },
+  {
+    "id": 8,
+    "userId": 8,
+    "type": "CONNECTION",
+    "message": "You have a new campus update 8. Open Campus Connect to see the details.",
+    "referenceId": 8,
+    "read": false,
+    "createdAt": "2026-10-09T15:00:00Z"
+  },
+  {
+    "id": 9,
+    "userId": 9,
+    "type": "EVENT",
+    "message": "You have a new campus update 9. Open Campus Connect to see the details.",
+    "referenceId": 9,
+    "read": true,
+    "createdAt": "2026-10-10T15:00:00Z"
+  },
+  {
+    "id": 10,
+    "userId": 10,
+    "type": "COMMENT",
+    "message": "You have a new campus update 10. Open Campus Connect to see the details.",
+    "referenceId": 10,
+    "read": false,
+    "createdAt": "2026-10-11T15:00:00Z"
+  },
+  {
+    "id": 11,
+    "userId": 11,
+    "type": "CONNECTION",
+    "message": "You have a new campus update 11. Open Campus Connect to see the details.",
+    "referenceId": 11,
+    "read": true,
+    "createdAt": "2026-10-12T15:00:00Z"
+  },
+  {
+    "id": 12,
+    "userId": 12,
+    "type": "EVENT",
+    "message": "You have a new campus update 12. Open Campus Connect to see the details.",
+    "referenceId": 12,
+    "read": false,
+    "createdAt": "2026-10-13T15:00:00Z"
+  },
+  {
+    "id": 13,
+    "userId": 13,
+    "type": "COMMENT",
+    "message": "You have a new campus update 13. Open Campus Connect to see the details.",
+    "referenceId": 13,
+    "read": true,
+    "createdAt": "2026-10-14T15:00:00Z"
+  },
+  {
+    "id": 14,
+    "userId": 14,
+    "type": "CONNECTION",
+    "message": "You have a new campus update 14. Open Campus Connect to see the details.",
+    "referenceId": 14,
+    "read": false,
+    "createdAt": "2026-10-15T15:00:00Z"
+  },
+  {
+    "id": 15,
+    "userId": 15,
+    "type": "EVENT",
+    "message": "You have a new campus update 15. Open Campus Connect to see the details.",
+    "referenceId": 15,
+    "read": true,
+    "createdAt": "2026-10-02T15:00:00Z"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Computer Science Circle 1",
+    "description": "A student community for sharing ideas, resources, and updates about Computer Science.",
+    "creatorId": 1,
+    "createdAt": "2026-10-01T09:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Information Technology Circle 2",
+    "description": "A student community for sharing ideas, resources, and updates about Information Technology.",
+    "creatorId": 2,
+    "createdAt": "2026-10-02T09:00:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Mechanical Engineering Circle 3",
+    "description": "A student community for sharing ideas, resources, and updates about Mechanical Engineering.",
+    "creatorId": 3,
+    "createdAt": "2026-10-03T09:00:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Electronics Circle 4",
+    "description": "A student community for sharing ideas, resources, and updates about Electronics.",
+    "creatorId": 4,
+    "createdAt": "2026-10-04T09:00:00Z"
+  },
+  {
+    "id": 5,
+    "name": "Business Administration Circle 5",
+    "description": "A student community for sharing ideas, resources, and updates about Business Administration.",
+    "creatorId": 5,
+    "createdAt": "2026-10-05T09:00:00Z"
+  },
+  {
+    "id": 6,
+    "name": "Computer Science Circle 6",
+    "description": "A student community for sharing ideas, resources, and updates about Computer Science.",
+    "creatorId": 6,
+    "createdAt": "2026-10-06T09:00:00Z"
+  },
+  {
+    "id": 7,
+    "name": "Information Technology Circle 7",
+    "description": "A student community for sharing ideas, resources, and updates about Information Technology.",
+    "creatorId": 7,
+    "createdAt": "2026-10-07T09:00:00Z"
+  },
+  {
+    "id": 8,
+    "name": "Mechanical Engineering Circle 8",
+    "description": "A student community for sharing ideas, resources, and updates about Mechanical Engineering.",
+    "creatorId": 8,
+    "createdAt": "2026-10-08T09:00:00Z"
+  },
+  {
+    "id": 9,
+    "name": "Electronics Circle 9",
+    "description": "A student community for sharing ideas, resources, and updates about Electronics.",
+    "creatorId": 9,
+    "createdAt": "2026-10-09T09:00:00Z"
+  },
+  {
+    "id": 10,
+    "name": "Business Administration Circle 10",
+    "description": "A student community for sharing ideas, resources, and updates about Business Administration.",
+    "creatorId": 10,
+    "createdAt": "2026-10-10T09:00:00Z"
+  },
+  {
+    "id": 11,
+    "name": "Computer Science Circle 11",
+    "description": "A student community for sharing ideas, resources, and updates about Computer Science.",
+    "creatorId": 11,
+    "createdAt": "2026-10-11T09:00:00Z"
+  },
+  {
+    "id": 12,
+    "name": "Information Technology Circle 12",
+    "description": "A student community for sharing ideas, resources, and updates about Information Technology.",
+    "creatorId": 12,
+    "createdAt": "2026-10-12T09:00:00Z"
+  },
+  {
+    "id": 13,
+    "name": "Mechanical Engineering Circle 13",
+    "description": "A student community for sharing ideas, resources, and updates about Mechanical Engineering.",
+    "creatorId": 13,
+    "createdAt": "2026-10-13T09:00:00Z"
+  },
+  {
+    "id": 14,
+    "name": "Electronics Circle 14",
+    "description": "A student community for sharing ideas, resources, and updates about Electronics.",
+    "creatorId": 14,
+    "createdAt": "2026-10-14T09:00:00Z"
+  },
+  {
+    "id": 15,
+    "name": "Business Administration Circle 15",
+    "description": "A student community for sharing ideas, resources, and updates about Business Administration.",
+    "creatorId": 15,
+    "createdAt": "2026-10-15T09:00:00Z"
+  }
+]

@@ -32,11 +32,14 @@ services:
       JWT_SECRET: ${JWT_SECRET:?Set JWT_SECRET in the root .env file}
       CORS_ALLOWED_ORIGINS: ${CORS_ALLOWED_ORIGINS:-http://localhost:8081,http://127.0.0.1:8081}
       RESOURCE_STORAGE_DIRECTORY: /app/uploads
+      CAMPUS_CONNECT_SEED_ENABLED: ${CAMPUS_CONNECT_SEED_ENABLED:-false}
+      CAMPUS_CONNECT_SEED_DIRECTORY: /app/collections
     depends_on:
       db:
         condition: service_healthy
     volumes:
       - uploads_data:/app/uploads
+      - ./collections:/app/collections:ro
     healthcheck:
       test: ["CMD-SHELL", "wget -q -O /dev/null http://127.0.0.1:8080/api/v1/health || exit 1"]
       interval: 15s
