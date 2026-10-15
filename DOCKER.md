@@ -17,7 +17,7 @@ Copy-Item .env.example .env
 
 Edit `.env` and replace all three password/secret placeholders with unique, strong values. `JWT_SECRET` must be at least 32 UTF-8 bytes. The `.env` file is ignored by Git; never commit or share it.
 
-To seed the sample records into a development database on backend startup, set `CAMPUS_CONNECT_SEED_ENABLED=true` in the root `.env`. Compose mounts `collections/` read-only at `/app/collections`; seeding is disabled by default. The fixtures use a shared password and must not be loaded into production.
+To seed the sample records into a development database on backend startup, set `CAMPUS_CONNECT_SEED_ENABLED=true` in the root `.env`. The backend image includes the repository's `collections/` at `/app/collections`; seeding is disabled by default. The fixtures use a shared password and must not be loaded into production.
 
 Build and start the full application:
 
@@ -42,6 +42,7 @@ docker compose down
 ## Deployment notes
 
 - Configure the deployment platform's secret manager with `MYSQL_USER`, `MYSQL_PASSWORD`, `MYSQL_ROOT_PASSWORD`, and a unique `JWT_SECRET`; provide `MYSQL_DATABASE`, `APP_PORT`, and `CORS_ALLOWED_ORIGINS` as needed.
+- For Render's Docker runtime, use the repository root as the Docker build context and `backend/Dockerfile` as the Dockerfile path. The Dockerfile copies `collections/` from that context into `/app/collections`; set `CAMPUS_CONNECT_SEED_DIRECTORY=/app/collections` if overriding the default.
 - Build and publish the frontend and backend images to a trusted registry, then deploy the Compose services (or translate them to the target orchestrator). Keep MySQL and uploads on persistent storage.
 - Terminate HTTPS at a trusted reverse proxy or load balancer and restrict access to the web port as appropriate.
 - The application currently uses Hibernate `ddl-auto=update` for its schema. For production upgrades, adopt versioned database migrations and take backups before schema changes.

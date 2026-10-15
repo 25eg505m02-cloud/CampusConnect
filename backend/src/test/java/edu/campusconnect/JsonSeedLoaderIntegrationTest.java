@@ -1,6 +1,7 @@
 package edu.campusconnect;
 
 import edu.campusconnect.config.JsonSeedLoader;
+import edu.campusconnect.entity.Role;
 import edu.campusconnect.repository.UserRepository;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -38,6 +39,7 @@ class JsonSeedLoaderIntegrationTest {
     @Test
     void loadsCollectionsHashesPasswordsAndSkipsExistingIdsOnRepeatRun() throws Exception {
         assertThat(users.count()).isEqualTo(15);
+        assertThat(users.countByRoleAndEnabledTrue(Role.ADMIN)).isZero();
         var seededUser = users.findByEmailIgnoreCase("aarav@mail.com").orElseThrow();
         assertThat(seededUser.getPasswordHash()).isNotEqualTo("12345678");
         assertThat(passwordEncoder.matches("12345678", seededUser.getPasswordHash())).isTrue();

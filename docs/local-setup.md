@@ -24,7 +24,7 @@ CAMPUS_CONNECT_SEED_ENABLED=true
 CAMPUS_CONNECT_SEED_DIRECTORY=../collections
 ```
 
-The loader inserts records in foreign-key order and skips IDs already present, so restarting does not duplicate seeded data. Missing, invalid, or inconsistent collection files fail startup with the file and record identified. User `password` values are BCrypt-encoded before they are stored. These fixtures all use the same development password; do not enable this seed data in production. For Docker Compose, mount the repository's `collections/` directory into the backend container at `/app/collections` and set `CAMPUS_CONNECT_SEED_DIRECTORY=/app/collections`.
+The loader inserts records in foreign-key order and skips IDs already present, so restarting does not duplicate seeded data. Missing, invalid, or inconsistent collection files fail startup with the file and record identified. User `password` values are BCrypt-encoded before they are stored. These fixtures all use the same development password; do not enable this seed data in production. The Docker image bundles the collection files at `/app/collections`, and Compose sets that path automatically.
 
 From PowerShell:
 
