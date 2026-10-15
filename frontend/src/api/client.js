@@ -1,7 +1,12 @@
 import axios from 'axios';
 import { resolveApiBaseUrl } from './baseUrl.js';
 
-const baseURL = resolveApiBaseUrl(import.meta.env.PROD, import.meta.env.VITE_API_BASE_URL);
+const PRODUCTION_API_BASE_URL = 'https://campusconnect-smah.onrender.com/api/v1';
+const baseURL = resolveApiBaseUrl(
+  import.meta.env.PROD,
+  import.meta.env.VITE_API_BASE_URL,
+  PRODUCTION_API_BASE_URL,
+);
 
 export const api = axios.create({
   baseURL: baseURL || '/api/v1',

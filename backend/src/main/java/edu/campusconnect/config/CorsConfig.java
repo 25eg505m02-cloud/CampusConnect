@@ -14,7 +14,7 @@ import java.util.List;
 public class CorsConfig {
     @Bean
     CorsConfigurationSource corsConfigurationSource(
-            @Value("${campus-connect.cors.allowed-origins:http://localhost:5173}") String configuredOrigins) {
+            @Value("${campus-connect.cors.allowed-origins:http://localhost:5173,https://campus-connect-lilac-three.vercel.app,https://campus-connect-19tpl8jvr-25eg505m02-cloud.vercel.app}") String configuredOrigins) {
         CorsConfiguration configuration = new CorsConfiguration();
         configuration.setAllowedOrigins(Arrays.stream(configuredOrigins.split(","))
                 .map(String::trim)
